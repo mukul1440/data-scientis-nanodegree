@@ -28,3 +28,5 @@ When your project isn't meant to be interactive or used for other projects, you 
 
 Licensing, Authors, Acknowledgements, etc.
 You always want to give credit where necessary. Acknowledge other contributors, helpful peers, data providers, etc.
+
+Here is my Blogpost link:-https://medium.com/@mukulaggarwal55/predict-car-amount-customer-can-pay-cce2c1eef344?sk=41f2eb111e933806ec52f965d273b81d
