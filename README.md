@@ -34,7 +34,7 @@ The main takeaways from this analytics are
 Specific findings of the code can be found at the Jupyter Notebook and blog post below.
 
 
-* [Blog Post: Understanding the Career of Data Scientist Using the Data Science Way](https://medium.com/@bowenchen/understanding-the-career-of-data-scientists-in-a-data-science-way-9bd63817221e)
+* [Blog Post: Understanding the Career of Data Scientist Using the Data Science Way](https://medium.com/@mukulaggarwal55/understanding-the-career-of-data-scientists-in-a-data-science-way-2c8773938f16?sk=9f67f164fa58c745feed7079ff08622a)
 
 **Licensing Acknowledgements**
 
