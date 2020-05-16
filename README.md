@@ -1,32 +1,35 @@
-# data-scientis-nanodegree
-
-You are working as a car salesman and you would like to develop a model to predict the total dollar amount that customers are willing to pay given the following attributes:
-
-Customer Name
-Customer e-mail
-Country
-Gender
-Age
-Annual Salary
-Credit Card Debt
-Net Worth
-The model should predict:
-
-Car Purchase Amount
-
-Installations
-Extra libraries that are not installed with the Anaconda distribution, as well as what version of python you are using should be noted.
-
+Understanding Data Scientist Careers in a Data Science Way
 Project Motivation
-Discuss what your project is about, and what interested you in pursuing the project.
 
+For this project, I was interestested in using 2011 - 2018 Stack Overflow developer survey data to better understand the career of data scientists. In particular, the questions I interested in are
+
+Does a data science role return you a happy career, or a healthier lifestyle?
+Do data scientists get paid higher salaries for working hard?
+What skills are required to become a data scientist?
+Installation
+
+No extra besides the built-in libraries from Anaconda needed to run this project
+
+numpy
+pandas
+seaborn
+glob
+os
 File Descriptions
-Guide others through the files in your repository. You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.
 
-How to interact with your project
-When your project isn't meant to be interactive or used for other projects, you should instead talk about the technical details of your project. What were your results? What did you do to improve them? What methods did you try? What worked? What didn't work?
+data: Folder contains data files of StackOverflow developer survey data, following name conventions of "YYYY Stack Overflow Survey Responses.csv"
+Understanding the Career of Data Scientists.ipynb: The Jupyter Notebook used for the main analytics
+Results
 
-Licensing, Authors, Acknowledgements, etc.
-You always want to give credit where necessary. Acknowledge other contributors, helpful peers, data providers, etc.
+The main takeaways from this analytics are
 
-Here is my Blogpost link:-https://medium.com/@mukulaggarwal55/predict-car-amount-customer-can-pay-cce2c1eef344?sk=41f2eb111e933806ec52f965d273b81d
+The best practice for doing data science is to have a question before you collect the data
+Data scientists work hard, but they are satisfied with their careers
+Versatile programming skills and strong commnunication skills are needed for data scientists
+Specific findings of the code can be found at the Jupyter Notebook and blog post below.
+
+Project Notebook: Understanding the Career of Data Scientists
+Blog Post: Understanding the Career of Data Scientist Using the Data Science Way
+Licensing Acknowledgements
+
+Thank you for @StackOverflow for sharing your developer survey for multiple years
